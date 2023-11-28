@@ -10,4 +10,4 @@ const user = {
 
 //객체의 프로퍼티를 꺼내기
 console.log(user.name); //도트 연산자 사용
-console.log(user['age']);
+console.log(user['age']); //대괄호 사용
